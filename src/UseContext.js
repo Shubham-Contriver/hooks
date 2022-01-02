@@ -3,7 +3,7 @@ import {Login} from "./Login"
 import {User} from "./User"
 
 export const AppContext = createContext(null)
-export const UseContext = () => {9201
+export const UseContext = () => {
     
     const[userName, setUserName] = useState("")
     return (

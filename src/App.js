@@ -7,11 +7,12 @@ import { UseRef } from './UseRef';
 import { UseLayoutEffect } from './UseLayoutEffect';
 import { UseImpretiveHandle } from './UseImpretiveHandle';
 import { UseContext } from './UseContext';
+import { GitTry } from './GitTry';
 
 function App() {
   return (
     <div className="App">
- <UseContext/>
+ <GitTry/>
      
     </div>
   );
