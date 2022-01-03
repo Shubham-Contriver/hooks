@@ -8,11 +8,12 @@ import { UseLayoutEffect } from './UseLayoutEffect';
 import { UseImpretiveHandle } from './UseImpretiveHandle';
 import { UseContext } from './UseContext';
 import { GitTry } from './GitTry';
+import {CheckDb} from "./CheckDb";
 
 function App() {
   return (
     <div className="App">
- <GitTry/>
+      <CheckDb/>
      
     </div>
   );

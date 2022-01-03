@@ -1,0 +1,14 @@
+{
+   "personal" : [
+       {
+     "name": "Shubham",
+    "age" : 26,
+    "password" : 123456
+   },
+   {
+    "name": "Jack",
+   "age" : 25,
+   "password" : 123456
+  }
+]
+}
